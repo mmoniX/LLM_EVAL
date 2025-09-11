@@ -27,3 +27,8 @@
 
 Possible reason:
 * hk 
+
+
+reading:
+1. https://medium.com/intro-zero/getting-started-with-transformers-pipelines-and-the-hugging-face-model-hub-4bd743c3f0eb
+2. https://www.edpb.europa.eu/system/files/2025-04/ai-privacy-risks-and-mitigations-in-llms.pdf
